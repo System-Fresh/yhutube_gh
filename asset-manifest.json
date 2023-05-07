@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yhutube_gh/static/css/main.7064deb2.css",
+    "main.js": "/yhutube_gh/static/js/main.19557eca.js",
+    "index.html": "/yhutube_gh/index.html",
+    "main.7064deb2.css.map": "/yhutube_gh/static/css/main.7064deb2.css.map",
+    "main.19557eca.js.map": "/yhutube_gh/static/js/main.19557eca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.19557eca.js"
+  ]
+}
